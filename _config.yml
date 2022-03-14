@@ -77,6 +77,11 @@ naver_site_verification  :
 yandex_site_verification :
 baidu_site_verification  :
 
+# Main
+main:
+  - title: "카테고리"
+    url: /categories/
+
 # Social Sharing
 twitter:
   username               :
