@@ -4,6 +4,8 @@ title:  "수리통계 개념"
 
 categories:
   - 수학
+
+last_modified_at: 2022-03-14T08:06:00-05:00
 ---
 
 수리통계학 중요 개념 정리 노트 chapter 1
