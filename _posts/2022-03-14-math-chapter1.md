@@ -72,20 +72,21 @@ Random experiement rules:
 베이즈 정리는 사건 B가 발생함으로써(사건 B가 진실이라는 것을 알게 됨으로써, 즉 사건 B의 확률 P(B)=1이라는 것을 알게 됨으로써) 사건 A의 확률이 어떻게 변화하는지를 표현한 정리다. 따라서 베이즈 정리는 새로운 정보가 기존의 추론에 어떻게 영향을 미치는지를 나타낸다.
 
 
+
 사건 독립의 필요충분조건
 ![독립 필충](https://user-images.githubusercontent.com/47611901/158721483-8b6e90ce-5fbe-4097-8b38-78031a115d5b.PNG)
 
 
 
 상호 독립
-
-![Uploading 상호 독립.PNG…]()
+![상호 독립](https://user-images.githubusercontent.com/47611901/158727495-d526086d-b452-4241-a1e5-27df20cbdfa6.PNG)
 ![상호 독립2](https://user-images.githubusercontent.com/47611901/158721761-55f8b7d8-1a84-4b98-8156-5002c0c9c25d.PNG)
 
 ### 확률 변수
 사건의 모든 결과를 나열하기 힘들때 실수를 이용해 변수에 확률을 할당
 EX) 동전을 던져서 앞면이 나오는 경우를 1, 뒷면이 나오는 경우를 0으로 하고 X(0), X(1) 같이 표현
 동전을 던져서 앞 뒷면이 나올 확률은 각각 1/2 이므로 X(0)=1/2 X(1)=1/2 와 같이 표현 될 수 있음.
+
 ![확률변수](https://user-images.githubusercontent.com/47611901/158722181-d8a4e79a-2abb-4bd2-a849-c191000d7aa9.PNG)
 
 
@@ -96,26 +97,30 @@ EX) 동전을 던져서 앞면이 나오는 경우를 1, 뒷면이 나오는 경
 ![누적 분포 필충](https://user-images.githubusercontent.com/47611901/158722820-65a98222-1211-4539-849b-5d3350930d24.PNG)
 ![필충2](https://user-images.githubusercontent.com/47611901/158722824-2d47d433-fb8b-48b7-94d1-4f890b998d1a.PNG)
 
+
 누적 분포 함수 성질
 ![캡처](https://user-images.githubusercontent.com/47611901/158725824-2d92a038-194b-4305-8505-4ce012aa3717.PNG)
 ![캡처](https://user-images.githubusercontent.com/47611901/158725949-337afd29-f510-404c-aec2-6c8376816dc6.PNG)
 
+
 이산 확률 변수와 pmf
 ![pmf](https://user-images.githubusercontent.com/47611901/158726197-bfd497b5-ec12-4951-bc41-c3ba29291d67.PNG)
+
 
 pmf 성질
 ![pmf 성질](https://user-images.githubusercontent.com/47611901/158726219-5214b4e1-d24d-4f6f-b060-60f36ac6e991.PNG)
 
 
 cdf 성질
-
 ![cdf](https://user-images.githubusercontent.com/47611901/158726305-8cba8ada-24ed-44fe-ae65-faaae2e4bf8f.PNG)
 모든 구간에서 연속이기 때문에 한점에서 왼쪽 극한을 빼면 0이 됨.
 ![cdf](https://user-images.githubusercontent.com/47611901/158726509-166b37a8-c547-4c8f-bd99-fa336a7a8b68.PNG)
 
+
 연속성에 관한 정의
 ![pdf 연속성](https://user-images.githubusercontent.com/47611901/158726664-dcaaf1d6-305a-4fb0-8539-76bec67f1f23.PNG)
 위 정의에서 pdf를 적분하면 cdf가 됨.
+
 
 pdf와 pmf를 따로 떼서 보지 않고 비슷한 성질로 정리
 ![pmf pdf](https://user-images.githubusercontent.com/47611901/158726895-23be7000-ad54-4bf9-a947-b1ecc1d43f53.PNG)
