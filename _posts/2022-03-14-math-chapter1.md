@@ -146,6 +146,7 @@ pdf와 pmf를 따로 떼서 보지 않고 비슷한 성질로 정리
 pmf는 시그마 pdf는 적분으로 표현. 또한 두 함수 모두 양수
 
 
+
 두 함수가 같은 분포를 가질 조건. 단 값은 다름.
 
 ![같은 분포](https://user-images.githubusercontent.com/47611901/158727170-d57e145f-914e-443d-90b6-ed3b9505130e.PNG)
@@ -155,6 +156,7 @@ pmf는 시그마 pdf는 적분으로 표현. 또한 두 함수 모두 양수
 ## 확률 변수 함수의 분포
 ![확률변수함수 분포](https://user-images.githubusercontent.com/47611901/158729949-56468814-2706-40d4-bee8-72bd50e396dd.PNG)
 
+# 3가지 방법
 1. cdf method
 2. 적률생성함수
 3. transformation
