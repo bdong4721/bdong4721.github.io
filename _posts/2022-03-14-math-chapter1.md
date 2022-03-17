@@ -46,3 +46,16 @@ Random experiement rules:
 
 
 ### 조건부 확률과 독립성
+
+
+![캡처](https://user-images.githubusercontent.com/47611901/158717864-f302a735-abf3-48a2-8d4a-390ba1b5153a.PNG)
+
+![캡처](https://user-images.githubusercontent.com/47611901/158717970-c4ce47be-8f49-4ee0-9a1e-9a597de129f3.PNG)
+
+## 곱셉 공식
+![2](https://user-images.githubusercontent.com/47611901/158717984-f58129cc-4872-4cc6-b07a-236e8993337c.PNG)
+
+
+
+
+
