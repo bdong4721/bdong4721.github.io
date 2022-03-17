@@ -161,7 +161,7 @@ pmf는 시그마 pdf는 적분으로 표현. 또한 두 함수 모두 양수
 2. 적률생성함수
 3. transformation
 
-### 1) cdf method
+
 ![cdf method](https://user-images.githubusercontent.com/47611901/158730193-7ba3f227-48bb-464f-8e1e-d8bc5fbdb5ed.PNG)
 
 ![transformation](https://user-images.githubusercontent.com/47611901/158730364-54a2a3ca-fdb5-4000-a59a-ef5261314b23.PNG)
