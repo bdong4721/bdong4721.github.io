@@ -149,4 +149,18 @@ pmf는 시그마 pdf는 적분으로 표현. 또한 두 함수 모두 양수
 두 함수가 같은 분포를 가질 조건. 단 값은 다름.
 
 ![같은 분포](https://user-images.githubusercontent.com/47611901/158727170-d57e145f-914e-443d-90b6-ed3b9505130e.PNG)
+  
+  
 
+## 확률 변수 함수의 분포
+![확률변수함수 분포](https://user-images.githubusercontent.com/47611901/158729949-56468814-2706-40d4-bee8-72bd50e396dd.PNG)
+
+1. cdf method
+2. 적률생성함수
+3. transformation
+
+![cdf method](https://user-images.githubusercontent.com/47611901/158730193-7ba3f227-48bb-464f-8e1e-d8bc5fbdb5ed.PNG)
+
+
+![transformation](https://user-images.githubusercontent.com/47611901/158730364-54a2a3ca-fdb5-4000-a59a-ef5261314b23.PNG)
+![transformation2](https://user-images.githubusercontent.com/47611901/158730370-616febbd-d0d5-4fc9-a675-a78673c850a6.PNG)
