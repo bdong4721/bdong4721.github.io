@@ -156,12 +156,12 @@ pmf는 시그마 pdf는 적분으로 표현. 또한 두 함수 모두 양수
 ## 확률 변수 함수의 분포
 ![확률변수함수 분포](https://user-images.githubusercontent.com/47611901/158729949-56468814-2706-40d4-bee8-72bd50e396dd.PNG)
 
-# 3가지 방법
+## 3가지 방법
 1. cdf method
 2. 적률생성함수
 3. transformation
 
-# cdf method
+## cdf method (Ex 1.5.10)
 
 ![cdf method](https://user-images.githubusercontent.com/47611901/158730193-7ba3f227-48bb-464f-8e1e-d8bc5fbdb5ed.PNG)
 
