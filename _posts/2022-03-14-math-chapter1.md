@@ -78,7 +78,9 @@ Random experiement rules:
 
 ![베이즈](https://user-images.githubusercontent.com/47611901/158720438-fbe4d36b-5564-445b-a76f-2651e08dfbac.PNG)
 
-추가내용은https://datascienceschool.net/02%20mathematics/06.06%20%EB%B2%A0%EC%9D%B4%EC%A6%88%20%EC%A0%95%EB%A6%AC.html#:~:text=%EB%B2%A0%EC%9D%B4%EC%A6%88%20%EC%A0%95%EB%A6%AC%EB%8A%94%20%EC%82%AC%EA%B1%B4,%EB%B3%80%ED%99%94%ED%95%98%EB%8A%94%EC%A7%80%EB%A5%BC%20%ED%91%9C%ED%98%84%ED%95%9C%20%EC%A0%95%EB%A6%AC%EB%8B%A4.
+추가내용은
+[데이터사이언스스쿨](https://datascienceschool.net/02%20mathematics/06.06%20%EB%B2%A0%EC%9D%B4%EC%A6%88%20%EC%A0%95%EB%A6%AC.html#:~:text=%EB%B2%A0%EC%9D%B4%EC%A6%88%20%EC%A0%95%EB%A6%AC%EB%8A%94%20%EC%82%AC%EA%B1%B4,%EB%B3%80%ED%99%94%ED%95%98%EB%8A%94%EC%A7%80%EB%A5%BC%20%ED%91%9C%ED%98%84%ED%95%9C%20%EC%A0%95%EB%A6%AC%EB%8B%A4 "베이지안")
+
 
 베이즈 정리는 사건 B가 발생함으로써(사건 B가 진실이라는 것을 알게 됨으로써, 즉 사건 B의 확률 P(B)=1이라는 것을 알게 됨으로써) 사건 A의 확률이 어떻게 변화하는지를 표현한 정리다. 따라서 베이즈 정리는 새로운 정보가 기존의 추론에 어떻게 영향을 미치는지를 나타낸다.
 
