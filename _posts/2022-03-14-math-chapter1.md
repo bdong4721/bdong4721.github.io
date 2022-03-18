@@ -21,7 +21,7 @@ last_modified_at: 2022-03-14T08:06:00-05:00
 
 
 
-확률 실험
+* 확률 실험
 Random experiement rules:
 1. The outcome can't be predicted with certainty. 
 2. Every possible outcome can be described prior to performance of the experiement. 
@@ -34,7 +34,7 @@ Random experiement rules:
 ![캡처](https://user-images.githubusercontent.com/47611901/158108968-5d00f163-69f6-4037-bdff-00b199baf7e1.PNG)
 
 
-확률 세트의 성질
+* 확률 세트의 성질
 
 ![캡처](https://user-images.githubusercontent.com/47611901/158109730-f304d42c-5f42-406f-9b61-6a8fe6d5aa86.PNG)
 
@@ -42,7 +42,7 @@ Random experiement rules:
 
 ![2](https://user-images.githubusercontent.com/47611901/158109742-a07f969c-e8cb-4ff3-bcdf-d2cbf3097a8c.PNG)
 
-본페르니 부등식: 교사건에 대한 확률값의 경계를 알수 있음.
+* 본페르니 부등식: 교사건에 대한 확률값의 경계를 알수 있음.
 
 ![캡처](https://user-images.githubusercontent.com/47611901/158110590-b074b7bb-c258-419f-8205-48849f8a710f.PNG)
 
