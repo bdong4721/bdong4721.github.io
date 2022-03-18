@@ -14,3 +14,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+main-sidebar:
+  - title: "수학"
+    url: /수학
+  - title: "주식"
+    url: /주식
