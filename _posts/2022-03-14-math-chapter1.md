@@ -21,6 +21,7 @@ last_modified_at: 2022-03-14T08:06:00-05:00
 
 
 
+확률 실험
 Random experiement rules:
 1. The outcome can't be predicted with certainty. 
 2. Every possible outcome can be described prior to performance of the experiement. 
