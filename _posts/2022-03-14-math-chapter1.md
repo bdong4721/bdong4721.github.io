@@ -169,6 +169,8 @@ pmf는 시그마 pdf는 적분으로 표현. 또한 두 함수 모두 양수
 ## 확률 변수 함수의 분포
 ![확률변수함수 분포](https://user-images.githubusercontent.com/47611901/158729949-56468814-2706-40d4-bee8-72bd50e396dd.PNG)
 
+# 확률 변수 X의 함수 f(X)가 주어졌을때 확률 변수 Y(g(X))의 함수 f(Y)를 구하는 방법을 알아본다.
+
 ## 3가지 방법
 1. cdf method
 2. 적률생성함수
@@ -180,3 +182,39 @@ pmf는 시그마 pdf는 적분으로 표현. 또한 두 함수 모두 양수
 
 ![transformation](https://user-images.githubusercontent.com/47611901/158730364-54a2a3ca-fdb5-4000-a59a-ef5261314b23.PNG)
 ![transformation2](https://user-images.githubusercontent.com/47611901/158730370-616febbd-d0d5-4fc9-a675-a78673c850a6.PNG)
+
+## Transformation method
+
+![case1](https://user-images.githubusercontent.com/47611901/159853916-df50a24b-d2c4-41f0-a2e0-849e715bb12f.PNG)
+![case2](https://user-images.githubusercontent.com/47611901/159853914-9003a1ba-86f6-465a-bfab-422e86d0ae0a.PNG)
+
+# Case 1의 one to one의 경우, 일대일 대응이기 때문에 바로 변환이 가능하다.
+# Case 2의 not one to one 의 경우, 일대일 대응이 아니기 때문에 3가지 경우(위에 에시)로 나누어서 생각해야한다.
+
+
+## 단조 증가 감소 함수
+
+![monotone increasing](https://user-images.githubusercontent.com/47611901/159856143-d2d3db0c-9040-41b0-917b-86c01e44cac8.PNG)
+![jacobian](https://user-images.githubusercontent.com/47611901/159857781-524b28f4-2418-4714-82ae-e3c1e2edb8ab.PNG)
+
+
+***확률 변수의 기댓값***
+
+![exp](https://user-images.githubusercontent.com/47611901/159857880-f435bbad-7b21-4850-8329-8506d2490b6e.PNG)
+![exp1](https://user-images.githubusercontent.com/47611901/159857849-50674433-51a5-4029-87f8-eeb6d46a3e86.PNG)
+![exp](https://user-images.githubusercontent.com/47611901/159859606-672fa711-7f45-44b2-b0ec-2060d1781d81.PNG)
+![exp1](https://user-images.githubusercontent.com/47611901/159859615-a7cbd64d-9e1d-4621-aabf-71a173f79082.PNG)
+![exp2](https://user-images.githubusercontent.com/47611901/159859622-72eb52e0-690d-428c-9fcb-5bb034b77de5.PNG)
+
+위에 직사각형 영역에 대해 첨언을 하자면, 왼쪽의 시그마는 단순 직사각형의 넓이를 구하는 식이고 오른쪽의 적분식은 곡선 아래 부분을 구하는 식이다.
+그리고 기댓값은 항상 존재하지는 않는다.
+
+***Some Special Expectations***
+
+![1](https://user-images.githubusercontent.com/47611901/159863959-118264ad-720f-41cd-9bb3-36c78508dcf7.PNG)
+![2](https://user-images.githubusercontent.com/47611901/159863977-80f7fd2e-848e-442a-a1c8-74f010261590.PNG)
+![3](https://user-images.githubusercontent.com/47611901/159863995-78645307-f086-43f6-a44e-566ea847d5d6.PNG)
+
+
+
+
