@@ -19,10 +19,12 @@ RSI, Stochastic 그리고 CCI를 살펴보겠습니다.
 RSI는 14일간의 주가의 상승폭과 하락폭애 대한 상대비율을 시장의 과열 혹은 과매도로 표현한 지표입니다.
 현재 시장 분위기가 너무 강한 매수인지 너무 강한 매도인지를 매수/매도의 비율을 통해 정보를 줍니다. 즉, 주가의 변동폭을 이용합니다.
 RSI의 계산식을 봅시다.
-![RSI](https://user-images.githubusercontent.com/47611901/159872422-c2405817-353b-4ef2-b588-ac79fe8a8699.png)
-RSI가 70%가 넘으면 과매수(매도 포지션)30%미만이면 과매도(매수 포지션)로 해석합니다.
-![RSI](https://user-images.githubusercontent.com/47611901/159877650-d04bf0e8-bc6e-43c2-b196-fe7eddd33527.png)
 
+![RSI](https://user-images.githubusercontent.com/47611901/159872422-c2405817-353b-4ef2-b588-ac79fe8a8699.png)
+
+RSI가 70%가 넘으면 과매수(매도 포지션)30%미만이면 과매도(매수 포지션)로 해석합니다.
+
+![RSI](https://user-images.githubusercontent.com/47611901/159878592-568ffcaf-59a4-4ed2-8a62-51ac3d5040b9.jpg)
 
 ## Stochastic
 Stochastioc 지표는 차트에서 캔들의 변동폭이 중심으로 회귀하려는 성질을 이용한 것입니다.
